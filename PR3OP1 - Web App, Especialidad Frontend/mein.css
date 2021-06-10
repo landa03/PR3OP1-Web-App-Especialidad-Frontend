@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+/* #colum1{
+    background-color: red;
+} */
+
+#colum2{
+    background-color: green;
+}
+
+#colum3{
+    background-color: blue;
+}
+
+.nav-item-container{
+    padding-left: 20%;
+}
+.nav-item:hover{
+    color: chartreuse;
+    background-color: rgba(0, 255, 0, 0.25);
+}
